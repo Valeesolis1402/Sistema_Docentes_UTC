@@ -1,0 +1,36 @@
+- numero_empleado: '1001'
+  especialidad: Redes
+  nombre: Jose Luis Flores Leandro
+- numero_empleado: '1002'
+  especialidad: Redes
+  nombre: Javier Enrique Guzman Aleman
+- numero_empleado: '1004'
+  especialidad: Redes
+  nombre: David Arroyo Lopez
+- numero_empleado: '1005'
+  especialidad: Redes
+  nombre: Luis Alejandro Esquivel Rodriguez
+- numero_empleado: '1006'
+  especialidad: Desarrollo de Software
+  nombre: Allan de Jesus Diaz Flores
+- numero_empleado: '1007'
+  especialidad: Desarrollo de Software
+  nombre: Belen Ligas Ortega
+- numero_empleado: '1008'
+  especialidad: Desarrollo de Software
+  nombre: Maria Azucena Vallejo Casas
+- numero_empleado: '1009'
+  especialidad: Desarrollo de Software
+  nombre: David Lopez Belmares
+- numero_empleado: '1010'
+  especialidad: Entornos Virtuales
+  nombre: Patricia Guadalupe Mora Gonzales
+- numero_empleado: '1011'
+  especialidad: Entornos Virtuales
+  nombre: Gabriel Alejandro Reyes Morales
+- numero_empleado: '1012'
+  especialidad: Matematicas
+  nombre: Javier Ezquivel Rodriguez
+- numero_empleado: '1013'
+  especialidad: Matematicas
+  nombre: Olga Maricela Hernandez Aguilar

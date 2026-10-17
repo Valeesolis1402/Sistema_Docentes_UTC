@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<docentes>
+    <docente>
+        <numero_empleado>1001</numero_empleado>
+        <nombre>Jose Luis Flores Leandro</nombre>
+        <especialidad>Redes</especialidad>
+    </docente>
+    <docente>
+        <numero_empleado>1002</numero_empleado>
+        <nombre>Javier Enrique Guzman Aleman</nombre>
+        <especialidad>Redes</especialidad>
+    </docente>
+    <docente>
+        <numero_empleado>1004</numero_empleado>
+        <nombre>David Arroyo Lopez</nombre>
+        <especialidad>Redes</especialidad>
+    </docente>
+    <docente>
+        <numero_empleado>1005</numero_empleado>
+        <nombre>Luis Alejandro Esquivel Rodriguez</nombre>
+        <especialidad>Redes</especialidad>
+    </docente>
+    <docente>
+        <numero_empleado>1006</numero_empleado>
+        <nombre>Allan de Jesus Diaz Flores</nombre>
+        <especialidad>Desarrollo de Software</especialidad>
+    </docente>
+    <docente>
+        <numero_empleado>1007</numero_empleado>
+        <nombre>Belen Ligas Ortega</nombre>
+        <especialidad>Desarrollo de Software</especialidad>
+    </docente>
+    <docente>
+        <numero_empleado>1008</numero_empleado>
+        <nombre>Maria Azucena Vallejo Casas</nombre>
+        <especialidad>Desarrollo de Software</especialidad>
+    </docente>
+    <docente>
+        <numero_empleado>1009</numero_empleado>
+        <nombre>David Lopez Belmares</nombre>
+        <especialidad>Desarrollo de Software</especialidad>
+    </docente>
+    <docente>
+        <numero_empleado>1010</numero_empleado>
+        <nombre>Patricia Guadalupe Mora Gonzales</nombre>
+        <especialidad>Entornos Virtuales</especialidad>
+    </docente>
+    <docente>
+        <numero_empleado>1011</numero_empleado>
+        <nombre>Gabriel Alejandro Reyes Morales</nombre>
+        <especialidad>Entornos Virtuales</especialidad>
+    </docente>
+    <docente>
+        <numero_empleado>1012</numero_empleado>
+        <nombre>Javier Ezquivel Rodriguez</nombre>
+        <especialidad>Matematicas</especialidad>
+    </docente>
+    <docente>
+        <numero_empleado>1013</numero_empleado>
+        <nombre>Olga Maricela Hernandez Aguilar</nombre>
+        <especialidad>Matematicas</especialidad>
+    </docente>
+</docentes>
